@@ -65,5 +65,8 @@ Handle the following flag characters for non-custom conversion specifiers:
 
 ## Authors:
 
-(MICHAEL EFFIOM EFFIOM)[https://github.com/mikenababa], 
-(UMO AKWANG)[https://github.com/greatnesspersonified]
+   MICHAEL EFFIOM EFFIOM [https://github.com/mikenababa]. 
+               
+   UMO AKWANG [https://github.com/greatnesspersonified].
+
+
