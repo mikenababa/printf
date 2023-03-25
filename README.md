@@ -1,6 +1,13 @@
-0x11. C - printf team project
+0x11. C - printf 
 
-Group Project: Team members: (MICHAEL EFFIOM EFFIOM)[https://github.com/mikenababa] AND (UMO AKWANG)[https://github.com/greatnesspersonified]
+C Group Project
+
+Language: C Editor: VIM 8.1.2269 Compiler: gcc 9.3.0 Wall -Werror -Wextra -pedantic -std=gnu89 Style guidelines: [Betty style] ###Project Specification
+
+Not allowed to use global variable.  No more than 5 functions per file All files end with a new line
+
+
+Team members: (MICHAEL EFFIOM EFFIOM)[https://github.com/mikenababa] AND (UMO AKWANG)[https://github.com/greatnesspersonified]
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produces output according to a format.
@@ -53,3 +60,7 @@ Handle the following flag characters for non-custom conversion specifiers:
 
 15. *
     All the above options work well together.
+
+## Authors:
+
+   (MICHAEL EFFIOM EFFIOM)[https://github.com/mikenababa] AND (UMO AKWANG)[https://github.com/greatnesspersonified]
